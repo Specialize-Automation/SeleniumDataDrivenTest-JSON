@@ -49,7 +49,7 @@ public class HomePage_02_Registration extends TestEnvironment
 	    TestBase.getWebElement("Password").sendKeys(pwd);
 	    TestBase.getWebElement("ConfirmPassword").sendKeys(confirmPwd);
 	    TestBase.getWebElement("Submit").click();
-	    
+
 	    Thread.sleep(2000);
 	}
 }
