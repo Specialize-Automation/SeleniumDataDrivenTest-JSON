@@ -1,0 +1,35 @@
+{
+	"Registration Data"	: 
+	[
+		{
+			"FirstName"   : "Aditya Kumar",
+			"LastName"    : "Roy",
+			"Phone"       : "7589698874",
+			"Email"		  : "aditya@test.com",
+			"Address"     : "337 pentagan street",
+			"City"        : "Amstalveen",
+			"Province"    : "North Holland",
+			"Postal Code" : "11801189",
+			"Country"     : "NETHERLANDS",
+			"UserID"   	  : "Aditya@74",
+  			"Password" 	  : "Test12345",
+  			"ConPassword" : "Test12345"
+  		},
+  		{
+  			"FirstName"   : "Preety",
+			"LastName"    : "Kakkar",
+			"Phone"       : "2225556669",
+			"Email"		  : "preety@test.com",
+			"Address"     : "22 Avenue circular road",
+			"City"        : "Hilversum",
+			"Province"    : "North Holland",
+			"Postal Code" : "12001233",
+			"Country"     : "NETHERLANDS",
+  			"UserID"   	  : "Preety@69",
+  			"Password" 	  : "Test@4123",
+  			"ConPassword" : "Test@4123"
+  		}
+  	]		
+ }
+  
+  

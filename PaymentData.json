@@ -1,0 +1,17 @@
+{
+	"OneTime Payment"	:
+	[
+		{
+			"AccountNumber"  :  "3698785526",
+			"Amount"	 	 :  "25.00",
+			"Type"		     :  "SavingsAcc",
+			"DateOfPayment"  :  "05 05 2018"
+		},
+		{
+			"AccountNumber"  :  "588785526",
+			"Amount"	     :  "36.00",
+			"Type"		     :  "CheckingAcc",
+			"DateOfPayment"  :  "11 05 2018"
+		}
+	]
+}
